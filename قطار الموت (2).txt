@@ -1,0 +1,8 @@
+	}
+	
+	int man = 170;
+	
+        if(x<y){
+            System.out.println("you can enter");
+            // 160<170
+}
