@@ -8,11 +8,8 @@ public class Main
 		
 		int age = 16;
 		
-	System.out.println("Hi, My name is yousif and I am 16 years old");
+	System.out.println("Hi, My name is" + name + "and I am" + age + "years old");
 		
 		
 	}
-	
-	
-	
 }
